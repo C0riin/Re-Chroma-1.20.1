@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "rechroma",
+	"version": "${version}",
+	"name": "Re:Chroma",
+	"description": "My first mod. it's about COLORFUL magic!",
+	"authors": [
+		"Coriin"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/rechroma/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.coriin.rechroma.ReChroma"
+		],
+		"client": [
+			"com.coriin.rechroma.ReChromaClient"
+		],
+		"fabric-datagen": [
+			"com.coriin.rechroma.ReChromaDataGenerator"
+		]
+	},
+	"mixins": [
+		"rechroma.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
