@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "rechroma:block/snow_bird_block"
+  }
+}

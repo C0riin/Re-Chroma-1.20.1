@@ -1,5 +1,25 @@
 {
   "item.rechroma.energy_manipulator": "Energy manipulator",
-  "item.rechroma.snow_bird": "Show Bird",
-  "itemgroup.rechroma_items": "Re:chroma items"
+  "item.rechroma.snow_bird": "Snow Bird",
+  "itemgroup.rechroma_items": "Re:chroma items",
+  "itemgroup.rechroma_blocks": "Re:chroma blocks",
+  "block.rechroma.snow_bird_block": "Snow bird block",
+  "block.rechroma.crystalline_stone_block": "Crystalline stone block",
+
+  "item.rechroma.black_crystal_shard": "Black crystal shard",
+  "item.rechroma.blue_crystal_shard": "Blue crystal shard",
+  "item.rechroma.brown_crystal_shard": "Brown crystal shard",
+  "item.rechroma.cyan_crystal_shard": "Cyan crystal shard",
+  "item.rechroma.gray_crystal_shard": "Gray crystal shard",
+  "item.rechroma.green_crystal_shard": "Green crystal shard",
+  "item.rechroma.lightblue_crystal_shard": "Lightblue crystal shard",
+  "item.rechroma.lightgray_crystal_shard": "Lightgray crystal shard",
+  "item.rechroma.lime_crystal_shard": "Lime crystal shard",
+  "item.rechroma.magenta_crystal_shard": "Magenta crystal shard",
+  "item.rechroma.orange_crystal_shard": "Orange crystal shard",
+  "item.rechroma.pink_crystal_shard": "Pink crystal shard",
+  "item.rechroma.purple_crystal_shard": "Purple crystal shard",
+  "item.rechroma.red_crystal_shard": "Red crystal shard",
+  "item.rechroma.white_crystal_shard": "White crystal shard",
+  "item.rechroma.yellow_crystal_shard": "Yellow crystal shard"
 }

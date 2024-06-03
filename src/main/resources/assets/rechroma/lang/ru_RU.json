@@ -1,5 +1,25 @@
 {
   "item.rechroma.energy_manipulator": "Энергетический манипулятор",
   "item.rechroma.snow_bird": "Сноу бёрд",
-  "itemgroup.rechroma_items": "Re:chroma Предметы"
+  "itemgroup.rechroma_items": "Re:chroma Предметы",
+  "itemgroup.rechroma_blocks": "Re:chroma блоки",
+  "block.rechroma.snow_bird_block": "Сноу бёрд блок",
+  "block.rechroma.crystalline_stone_block": "Блок кристаллического камня",
+
+  "item.rechroma.black_crystal_shard": "Чёрный кристальный осколок",
+  "item.rechroma.blue_crystal_shard": "Синий кристальный осколок",
+  "item.rechroma.brown_crystal_shard": "Коричневый кристальный осколок",
+  "item.rechroma.cyan_crystal_shard": "Голубой кристальный осколок",
+  "item.rechroma.gray_crystal_shard": "Серый кристальный осколок",
+  "item.rechroma.green_crystal_shard": "Зелёный кристальный осколок",
+  "item.rechroma.lightblue_crystal_shard": "Светло-серый кристальный осколок",
+  "item.rechroma.lightgray_crystal_shard": "Светло-синий кристальный осколок",
+  "item.rechroma.lime_crystal_shard": "Светло-Зелёный кристальный осколок",
+  "item.rechroma.magenta_crystal_shard": "Пурпурный кристальный осколок",
+  "item.rechroma.orange_crystal_shard": "Оранжевый кристальный осколок",
+  "item.rechroma.pink_crystal_shard": "Розовый кристальный осколок",
+  "item.rechroma.purple_crystal_shard": "Фиолетовый кристальный осколок",
+  "item.rechroma.red_crystal_shard": "Красный кристальный осколок",
+  "item.rechroma.white_crystal_shard": "Белый кристальный осколок",
+  "item.rechroma.yellow_crystal_shard": "Жёлтый кристальный осколок"
 }

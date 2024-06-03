@@ -1,5 +1,6 @@
 package com.coriin.rechroma;
 
+import com.coriin.rechroma.block.ModBlocks;
 import com.coriin.rechroma.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -17,6 +18,7 @@ public class ReChroma implements ModInitializer {
 		LOGGER.info("Hello Fabric world!");
 		ModItems.registerModItems();
 		ModItemGroups.registerItemGroups();
+		ModBlocks.registerModBlocks();
 	}
 
 }
