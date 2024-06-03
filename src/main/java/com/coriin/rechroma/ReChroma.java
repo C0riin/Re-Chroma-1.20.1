@@ -1,5 +1,6 @@
 package com.coriin.rechroma;
 
+import com.coriin.rechroma.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -14,6 +15,8 @@ public class ReChroma implements ModInitializer {
 	public void onInitialize() {
 		// yeah github!
 		LOGGER.info("Hello Fabric world!");
+		ModItems.registerModItems();
+		ModItemGroups.registerItemGroups();
 	}
 
 }
